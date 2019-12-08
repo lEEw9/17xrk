@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lEEw9/17xrk/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="ote">
+<title>3D</title>
+<style>
+	body {
+		background-color: #272727;
+	}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	h1 {
+        font-family: "Arial", sans-serif;
+        font-size: 85px;
+        text-align: center;
+        font-weight: bold;
+    	color: #3d3d3d;
+    	margin-top: 200px;
+    }
 
-### Markdown
+    .text {
+        position:relative;
+    }
+    .text:after {
+        content: '';
+        position:absolute;
+        display:block;
+        top:0;
+        left:0;
+        height:100%;
+        width:100%;
+        background: -moz-linear-gradient(top,  rgba(39,39,39,1) 0%, rgba(39,39,39,0) 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(39,39,39,1)), color-stop(100%,rgba(39,39,39,0)));
+background: -webkit-linear-gradient(top,  rgba(39,39,39,1) 0%,rgba(39,39,39,0) 100%);
+background: -o-linear-gradient(top,  rgba(39,39,39,1) 0%,rgba(39,39,39,0) 100%);
+background: -ms-linear-gradient(top,  rgba(39,39,39,1) 0%,rgba(39,39,39,0) 100%);
+background: linear-gradient(to bottom,  rgba(39,39,39,1) 0%,rgba(39,39,39,0) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#272727', endColorstr='#00272727',GradientType=0 );
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    }
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lEEw9/17xrk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    span {
+    	  text-shadow: 
+    	  	0 -1px 0 #858585,
+              
+               
+               0 1px 10px rgba(0,0,0,.6),
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.2),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 7px 10px rgba(0,0,0,.25),
+               0 15px 10px rgba(0,0,0,.2),
+               0 25px 15px rgba(0,0,0,.15);
+    }
+</style>
+</head>
+<body>
+<pre><h1 class="text"><span>
+永久网址:www.17xrk.com
+</span></h1>
+</pre>
+</body></html>
