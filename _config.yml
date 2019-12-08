@@ -14,7 +14,7 @@ email: xrkvideo@yahoo.com
 
 
 # Google-analytics
-google-analytics:
-  id: ""
+google-analytic:
+  id: "UA-154215404-1" 
 
 exclude: ['package.json', 'src' , 'node_modules']
