@@ -1,9 +1,8 @@
 # Site settings
 title: Xrk VIDEO
 description: Jekyll Theme Minimal Resume
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://235np.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-
+# baseurl: "/index.html" # the subpath of your site, e.g. /blog
+# url: "https://235np.com" 
 # User settings
 username: Xrk VIDEO
 user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://17xrk.app" target="_blank">https://17xrk.com</a>
@@ -17,4 +16,4 @@ email: xrkvideo@yahoo.com
 google-analytic:
   id: "UA-154215404-1" 
 
-exclude: ['package.json', 'src' , 'node_modules']
+
