@@ -1,4 +1,1 @@
-
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
-</p>
-
+<img src="https://raw.githubusercontent.com/17xrkapp/tuchuang/master/20191209155154.png"/>
