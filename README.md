@@ -1,14 +1,14 @@
-#            ❤ 永久域名:<a href="https://www.17xrk.com">WWW.17XRK.COM</a>❤
-  <h2>⭐⭐⭐向日葵网址最新地址更新⭐⭐⭐</h2>
+#            ❤ 永久域名:<a href="https://mina88.cn">mina88.cn</a>❤
+  <h2>⭐⭐⭐闽A888网址最新地址更新⭐⭐⭐</h2>
   	</div>
-  <h2>向日葵视频最新更新地址一：🚗🚗🚗 <a href="https://www.aaaa.pw">大陆高清,全程高速</a> </h2>
+  <h2>闽A8888导航网址最新更新地址一：🚗🚗🚗 <a href="https://mina88.cn">全程高速</a> </h2>
   </div>
   </div>
   </div>
-  ✈✈✈   向日葵永久防跟丢地址:✈✈✈  <a href="https://about.me/xrk">收藏这个地址.你将永久受益👙
+  ✈✈✈   闽A8888导航-永久防跟丢地址:✈✈✈  <a href="https://mina88.cn">收藏这个地址.你将永久受益👙
 	</div>
 	</div>
-  <自动获取地址> 请发送邮件到:xrkvideo@yahoo.com 获取
+  <自动获取地址> 请发送邮件到:2601601444@qq.com 获取
 	</div>
   	</div>
     	</div>
