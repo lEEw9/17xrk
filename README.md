@@ -1,7 +1,7 @@
-#            ❤ 永久域名:<a href="https://mina88.cn">mina88.cn</a>❤
+#            ❤ 永久域名:<a href="https://xlhdh.vip">xlhdh.vip</a>❤
   <h2>⭐⭐⭐喜乐汇导航网址最新地址更新⭐⭐⭐</h2>
   	</div>
-  <h2>喜乐汇导航网址最新更新地址一：🚗🚗🚗 <a href="https://mina88.cn">全程高速</a> </h2>
+  <h2>喜乐汇导航网址最新更新地址一：🚗🚗🚗 <a href="https://xlhdh.vip">全程高速</a> </h2>
   </div>
   </div>
   </div>
