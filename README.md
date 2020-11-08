@@ -5,7 +5,7 @@
   </div>
   </div>
   </div>
-  ✈✈✈   喜乐会导航-永久防跟丢地址:✈✈✈  <a href="https://github.com/lEEw9/17xrkcn">收藏这个地址.你将永久受益👙
+  ✈✈✈   喜乐会导航-永久防跟丢地址:✈✈✈  <a href="https://github.com/lEEw9/17xrk">收藏这个地址.你将永久受益👙
 	</div>
 	</div>
   <自动获取地址> 请发送邮件到:2601601444@qq.com 获取
