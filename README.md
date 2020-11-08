@@ -1,7 +1,8 @@
 #            ❤ 永久域名:<a href="https://xlhdh.vip">xlhdh.vip</a>❤
-  <h2>⭐⭐⭐喜乐汇导航网址最新地址更新⭐⭐⭐</h2>
+  <h2>⭐⭐⭐喜乐汇导航永久地址页⭐⭐⭐</h2>
   	</div>
-  <h2>喜乐汇导航网址最新更新地址一：🚗🚗🚗 <a href="https://xlhdh.vip">全程高速</a> </h2>
+  <h2>最新更新地址一：🚗🚗🚗 <a href="https://xlhdh.vip">https://xlhdh.vip</a> </h2>
+  </p><h2>最新更新地址二：🚗🚗🚗 <a href="https://xlhdh.me">https://xlhdh.me</a> </h2><p>
   </div>
   </div>
   </div>
