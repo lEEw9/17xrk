@@ -7,5 +7,5 @@
   </div>
   </div>
   </div>
-  站长邮箱:xlhdhw@gmail.com
+  站长邮箱:91zgzz@gmail.com
       	</div>
