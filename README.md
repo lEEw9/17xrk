@@ -1,4 +1,7 @@
-#            ❤ 永久域名:<a href="https://simi2.com">simi2.com</a>❤
+#
+<img src="https://97smdh.com/wp-content/uploads/2022/07/smdhL0g0.png" alt="smlogo">
+<img class="setting" src="./smdhlog.png" alt="1">
+❤ 永久域名:<a href="https://simi2.com">simi2.com</a>❤
   <h2>⭐⭐⭐私密导航永久地址页⭐⭐⭐</h2>
   	
   <h2>最新更新地址一：🚗🚗🚗 <a href="https://mmhydh.com/">https://mmhydh.com/</a> </h2>
