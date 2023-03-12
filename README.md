@@ -2,8 +2,7 @@
 <link rel="apple-touch-icon" href="https://bdjs.cc/smIMG/logo/smdhtp.png">
 <div class="logo">
         <img src="https://bdjs.cc/smIMG/logo/smdhlogo.png" alt="smlogo">
-      </div>
-</div>
+
 
 </div>
 ❤ 永久域名:<a href="https://simi2.com">simi2.com</a>❤
