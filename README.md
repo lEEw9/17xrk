@@ -1,5 +1,5 @@
-<link rel="shortcut icon" href="https://bdjs.cc/smIMG/logo/smdhtp.png](https://123img.cc/i/2023/08/25/64e8078c3b58f.png)">
-<link rel="apple-touch-icon" href="https://bdjs.cc/smIMG/logo/smdhtp.png](https://123img.cc/i/2023/08/25/64e8078c3b58f.png)">
+<link rel="shortcut icon" href="https://123img.cc/i/2023/08/25/64e8078c3b58f.png">
+<link rel="apple-touch-icon" href="https://123img.cc/i/2023/08/25/64e8078c3b58f.png">
 <div class="logo">
         <img src="https://bdjs.cc/smIMG/logo/smdhlogo.png" alt="smlogo">
 
